@@ -22,7 +22,6 @@ I love using data to read between the lines and find possibilities not detectabl
 - &nbsp; Currently studying a **DOUBLE BACHELOR**: <br>
 &nbsp; &nbsp; &nbsp; **Data Science** - TU Eindhoven and Tilburg University <br>
 &nbsp; &nbsp; &nbsp; **Computer Science & Engineering** - Tilburg University <br>
-- &nbsp; Reach me at: **david.manda.loureiro@gmail.com**
 
 <p align="center">
   <a href="https://www.tue.nl/en/">
@@ -38,8 +37,10 @@ I love using data to read between the lines and find possibilities not detectabl
   </a>
 </p>
 
+- &nbsp; You can reach me at: **david.manda.loureiro@gmail.com**
 
-## My value
+
+## What I bring to the table...
 These are some of the tools I have worked most with for university in depth data challenges, personal projects and professional work.
 
 ### Programming Languages
@@ -56,16 +57,16 @@ These are some of the tools I have worked most with for university in depth data
 - **Data mining & machine learning**: feature engineering, model evaluation, supervised & unsupervised learning
 - **NLP**: NLTK, spaCy, VADER, DeepL API integration
 - **Analytics & stats**: data analytics, visualization, statistical computing, econometrics
-- **Notebooks & experimentation**: Jupyter Notebooks
+- **Notebooks & experimentation**: Jupyter Notebooks and Google Colab.
 
 ---
 
 ### Machine Learning & Deep Learning
-- **Classical ML**: scikit-learn, LightGBM
+- **Classic ML**: scikit-learn, LightGBM
 - **Deep learning**: PyTorch, TensorFlow / Keras
-- **Computer vision**: OpenCV, image preprocessing & augmentation, semantic segmentation (U-Net with EfficientNet encoders)
+- **Computer vision**: OpenCV, image preprocessing & augmentation, semantic segmentation (several models like U-Net with several encoders like EfficientNet)
 - **Training & tuning**: GPU-accelerated workflows, Optuna hyperparameter optimization
-- **Applied projects**: chest X-ray disease detection, coral health estimation from underwater imagery
+- **Applied projects**: chest X-ray disease detection, coral health estimation from underwater imagery, London burglary per LSOA prediction for police resource allocation optimization.
 
 ---
 
@@ -107,16 +108,9 @@ These are some of the tools I have worked most with for university in depth data
 
 ---
 
-### 🤖 Autonomous Systems & Simulation
-- **Autonomous agents**: simulation work on earthquake-survival search robots  
-  → _fill in the platform name here (e.g. the autonomous systems simulator you used)_
-
-
----
-
 ## Featured Projects
 
-> Below are a few projects I’m proud of. Click to expand for more details.
+> These are the most interesting projects I have worked on that show the value I can provide and the insightful and creative thinking I am capable of, please feel free to go more into detail if you find any of them interesting.
 
 ### 1. [PROJECT_1_NAME](https://github.com/YOUR_USERNAME/PROJECT_1_REPO)
 
