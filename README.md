@@ -19,7 +19,7 @@ I’m a **Data Scientist** who loves **building and implementing innovative and 
 I love using data to read between the lines and find possibilities not detectable from simple analysis. As per my double degree education, I am also a Computer Scientist and Engineer, allowing me to give my data abilities, reach and technical skills to go beyond average and find new solutions.
 
 ## About me
-- &nbsp; Currently studying a **DOUBLE BACHELOR**: <br>
+- &nbsp; Currently studying a **Double Bachelor**: <br>
 &nbsp; &nbsp; &nbsp; **Data Science** - TU Eindhoven and Tilburg University <br>
 &nbsp; &nbsp; &nbsp; **Computer Science & Engineering** - Tilburg University <br>
 
