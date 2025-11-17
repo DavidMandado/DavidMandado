@@ -1,15 +1,14 @@
 <!-- HEADER & SOCIALS -->
 
-## Hey there 👋, I'm David(https://github.com/DavidMandado)
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/DavidMandado/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+## Hey!, I'm [David](https://github.com/DavidMandado)
 
 ---
 
-### Glad to see you here!
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/DavidMandado/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:david.manda.loureiro@gmail.com)
+
+---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=DavidMandado&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -19,10 +18,14 @@ I’m a **Data Scientist** who loves **building and implementing innovative and 
 
 I love using data to read between the lines and find possibilities not detectable from simple analysis. As per my double degree education, I am also a Computer Scientist and Engineer, allowing me to give my data abilities, reach and technical skills to go beyond average and find new solutions.
 
+## About me
+- &nbsp; Currently studying a **DOUBLE BACHELOR**: <br>
+&nbsp; &nbsp; &nbsp; **Data Science** - TU Eindhoven and Tilburg University <br>
+&nbsp; &nbsp; &nbsp; **Computer Science & Engineering** - Tilburg University <br>
+- &nbsp; Reach me at: **david.manda.loureiro@gmail.com**
+
 
 ## 🧰 Tech Stack & Tools
-
-<!-- Replace or edit these icons / badges based on your skills -->
 
 **Languages**
 
