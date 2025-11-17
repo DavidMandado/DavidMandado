@@ -1,6 +1,6 @@
 <!-- HEADER & SOCIALS -->
 
-## Hey!, I'm [David](https://github.com/DavidMandado)
+## Hey! I'm [David](https://github.com/DavidMandado) 👽
 
 ---
 
