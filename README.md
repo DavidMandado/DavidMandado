@@ -32,51 +32,89 @@ I love using data to read between the lines and find possibilities not detectabl
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.tilburguniversity.edu/">
-    <img src="tilburgunilogo.png"
+    <img src="tilburgunilogo.webp"
          alt="Tilburg University"
          height="80">
   </a>
 </p>
 
 
-## 🧰 Tech Stack & Tools
+## My value
+These are some of the tools I have worked most with for university in depth data challenges, personal projects and professional work.
 
-**Languages**
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="TypeScript" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="Java" /></code>
-
-**Frontend**
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" alt="Next.js" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" /></code>
-
-**Backend & Databases**
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" alt="Express" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB" /></code>
-
-**DevOps & Cloud**
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/github-actions/github-actions.png" alt="GitHub Actions" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" alt="AWS" /></code>
-
-**Tools**
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/vscode/vscode.png" alt="VS Code" /></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" alt="terminal" /></code>
+### Programming Languages
+- **Python**
+- **R**
+- **Java**
+- **JavaScript / TypeScript**
+- **SQL** (incl. SQLite)
 
 ---
 
-## 🚀 Featured Projects
+### Data Science & Analytics
+- **Core DS stack**: pandas, NumPy, scikit-learn
+- **Data mining & machine learning**: feature engineering, model evaluation, supervised & unsupervised learning
+- **NLP**: NLTK, spaCy, VADER, DeepL API integration
+- **Analytics & stats**: data analytics, visualization, statistical computing, econometrics
+- **Notebooks & experimentation**: Jupyter Notebooks
+
+---
+
+### Machine Learning & Deep Learning
+- **Classical ML**: scikit-learn, LightGBM
+- **Deep learning**: PyTorch, TensorFlow / Keras
+- **Computer vision**: OpenCV, image preprocessing & augmentation, semantic segmentation (U-Net with EfficientNet encoders)
+- **Training & tuning**: GPU-accelerated workflows, Optuna hyperparameter optimization
+- **Applied projects**: chest X-ray disease detection, coral health estimation from underwater imagery
+
+---
+
+### Data Engineering & MLOps
+- **Pipelines & orchestration**: Apache Airflow, Dask
+- **Streaming & messaging**: Apache Kafka, Redis
+- **Storage & querying**: SQL, SQLite, basic data modeling
+- **Version control**: Git, GitHub
+- **Containers & IaC**: Docker, Terraform
+- **Cloud**: AWS (EC2, S3, Lambda)
+
+---
+
+### 📈 Visualization, BI & Dashboards
+- **Python viz**: matplotlib, seaborn, plotext
+- **Geospatial viz**: GeoPandas, Folium, Leaflet
+- **Dashboards & data apps**: Plotly Dash, Streamlit, Flask-based dashboards
+- **Business intelligence**: Power BI, Tableau
+- **Web visualization**: D3.js, Leaflet
+
+---
+
+### Web, APIs & Frontend
+- **Backends & APIs**: Flask, RESTful API design
+- **Frontend**: React.js, HTML/CSS/JavaScript integration
+- **End-to-end products**: data → model → API → interactive dashboard
+
+---
+
+### CS, Systems & Networking
+- **Core CS**: data structures & algorithms, logic & set theory, discrete mathematics
+- **Systems**: Linux / Bash, computer systems fundamentals, concurrency
+- **Networking**: networking basics, Wireshark (packet sniffing & traffic analysis)
+
+---
+
+### Formal Methods & Reliability
+- **Specification & verification**: PlusCal, TLA+ (reasoning about safety & liveness of algorithms)
+
+---
+
+### 🤖 Autonomous Systems & Simulation
+- **Autonomous agents**: simulation work on earthquake-survival search robots  
+  → _fill in the platform name here (e.g. the autonomous systems simulator you used)_
+
+
+---
+
+## Featured Projects
 
 > Below are a few projects I’m proud of. Click to expand for more details.
 
