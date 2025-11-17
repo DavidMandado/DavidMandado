@@ -24,17 +24,16 @@ I love using data to read between the lines and find possibilities not detectabl
 &nbsp; &nbsp; &nbsp; **Computer Science & Engineering** - Tilburg University <br>
 - &nbsp; Reach me at: **david.manda.loureiro@gmail.com**
 
-<!-- Universities section -->
 <p align="center">
-  <a href="https://ilost-customization.s3.eu-west-1.amazonaws.com/f329307178fc4bf581544fd541abe352/logo">
-    <img src="TU_EINDHOVEN_LOGO_URL" 
-         alt="Eindhoven University of Technology" 
+  <a href="https://www.tue.nl/en/">
+    <img src="tueindhovenlogo.png"
+         alt="Eindhoven University of Technology"
          height="80">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.tilburguniversity.edu/">
-    <img src="TILBURG_UNIVERSITY_LOGO_URL" 
-         alt="Tilburg University" 
+    <img src="tilburgunilogo.png"
+         alt="Tilburg University"
          height="80">
   </a>
 </p>
