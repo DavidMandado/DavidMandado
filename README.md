@@ -1,6 +1,6 @@
 <!-- HEADER & SOCIALS -->
 
-## Hey there 👋, I'm [YOUR_NAME!](https://github.com/YOUR_USERNAME)
+## Hey there 👋, I'm David(https://github.com/DavidMandado)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
@@ -15,26 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-I’m a **[YOUR ROLE: e.g. Full Stack Developer / Data Scientist / Mobile Dev]** who loves building **[what you build: e.g. web apps, APIs, data-driven products]**.
+I’m a **Data Scientist** who loves **building and implementing innovative and highly technical data projects** in order to change the world.
 
-I enjoy solving problems end-to-end: from understanding the problem, to designing the solution, to shipping something users actually enjoy using.  
-My main focus right now is **[e.g. React + Node.js, Python, ML, etc.]**, but I love exploring new tools and ideas.
+I love using data to read between the lines and find possibilities not detectable from simple analysis. As per my double degree education, I am also a Computer Scientist and Engineer, allowing me to give my data abilities, reach and technical skills to go beyond average and find new solutions.
 
-When I’m not coding, you’ll probably find me **[e.g. reading about tech, playing games, at meetups, etc.]**.
-
----
-
-## 🧑‍💻 About Me
-
-- 🛠 &nbsp; Currently working with: **[Your main stack: e.g. TypeScript, React, Node.js, PostgreSQL]**
-- 🚀 &nbsp; Currently exploring: **[e.g. Machine Learning, Gen AI, DevOps, Rust]**
-- 🤝 &nbsp; Open to: **[e.g. freelance work, open source collaboration, full-time roles]**
-- 💬 &nbsp; Ask me about: **[topics you’re confident in]**
-- 🎯 &nbsp; Goals for this year: **[1–3 goals, e.g. contribute to OSS, ship a SaaS MVP]**
-- 👾 &nbsp; Fun fact: **[fun fact about you or tech]**
-- 📫 &nbsp; Reach me at: **YOUR_EMAIL**
-
----
 
 ## 🧰 Tech Stack & Tools
 
