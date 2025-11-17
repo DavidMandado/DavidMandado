@@ -2,7 +2,7 @@
 
 ## Hey there 👋, I'm David(https://github.com/DavidMandado)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/DavidMandado/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
@@ -12,7 +12,7 @@
 ### Glad to see you here!
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DavidMandado&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 I’m a **Data Scientist** who loves **building and implementing innovative and highly technical data projects** in order to change the world.
