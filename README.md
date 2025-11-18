@@ -18,6 +18,8 @@ I’m a **Data Scientist** who loves **building and implementing innovative and 
 
 I love using data to read between the lines and find possibilities not detectable from simple analysis. As per my double degree education, I am also a Computer Scientist and Engineer, allowing me to give my data abilities, reach and technical skills to go beyond average and find new solutions.
 
+---
+
 ## About me
 - &nbsp; Currently studying a **Double Bachelor**: <br>
 &nbsp; &nbsp; &nbsp; **Data Science** - TU Eindhoven and Tilburg University <br>
@@ -39,6 +41,7 @@ I love using data to read between the lines and find possibilities not detectabl
 
 - &nbsp; You can reach me at: **david.manda.loureiro@gmail.com**
 
+---
 
 ## What I bring to the table...
 These are some of the tools I have worked most with for university in depth data challenges, personal projects and professional work.
