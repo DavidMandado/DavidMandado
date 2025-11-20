@@ -46,9 +46,9 @@ I love using data to read between the lines and find possibilities not detectabl
 ## What I bring to the table...
 These are some of the tools I have worked most with for university in depth data challenges, personal projects and professional work.
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 🧑‍💻 Programming Languages
+### Programming Languages
 
 <p align="left">
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /></code>
@@ -61,7 +61,7 @@ These are some of the tools I have worked most with for university in depth data
 
 ---
 
-### 📊 Data Science & Analytics
+### Data Science & Analytics
 
 <p align="left">
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" /></code>
@@ -74,12 +74,12 @@ These are some of the tools I have worked most with for university in depth data
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" /></code>
 </p>
 
-**Other DS / ML tools (text):**  
+**Other DS / ML tools:**  
 Seaborn · plotext · Optuna · NLTK · spaCy · VADER · GeoPandas · Folium · Leaflet · classical ML methods, feature engineering, evaluation & experimentation
 
 ---
 
-### 🧠 Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 
 <p align="left">
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" /></code>
@@ -93,7 +93,7 @@ Computer vision (semantic segmentation, U-Net, EfficientNet encoders) · classic
 
 ---
 
-### 🏗️ Data Engineering & DevOps
+### Data Engineering & DevOps
 
 <p align="left">
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" /></code>
@@ -111,7 +111,7 @@ Dask · data pipelines · model deployment basics · experiment tracking & repro
 
 ---
 
-### 📈 BI, Dashboards & Data Apps
+### BI, Dashboards & Data Apps
 
 <p align="left">
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" /></code>
@@ -120,12 +120,12 @@ Dask · data pipelines · model deployment basics · experiment tracking & repro
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" /></code>
 </p>
 
-**Other tools (text):**  
+**Other tools:**  
 Plotly Dash · Streamlit · custom Flask dashboards · interactive geospatial dashboards (GeoPandas, Folium, Leaflet)
 
 ---
 
-### 🌐 Web, APIs & Frontend
+### Web, APIs & Frontend
 
 <p align="left">
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" /></code>
@@ -140,7 +140,7 @@ RESTful API design · backend-for-frontends for dashboards · integration of ML 
 
 ---
 
-### 🖥️ CS, Systems & Networking
+### CS, Systems & Networking
 
 <p align="left">
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></code>
@@ -153,7 +153,7 @@ Data Structures & Algorithms · concurrency · computer systems · networking ba
 
 ---
 
-### ✅ Formal Methods & Extras (text)
+### Formal Methods & Extras
 
 - PlusCal & TLA+ (algorithm specification and verification)  
 - Simulation of autonomous systems / earthquake-survival search robots (simulation platform to be filled in)  
