@@ -46,68 +46,119 @@ I love using data to read between the lines and find possibilities not detectabl
 ## What I bring to the table...
 These are some of the tools I have worked most with for university in depth data challenges, personal projects and professional work.
 
-### Programming Languages
-- **Python**
-- **R**
-- **Java**
-- **JavaScript / TypeScript**
-- **SQL** (incl. SQLite)
+## 🧰 Tech Stack
+
+### 🧑‍💻 Programming Languages
+
+<p align="left">
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" /></code>
+</p>
 
 ---
 
-### Data Science & Analytics
-- **Core DS stack**: pandas, NumPy, scikit-learn
-- **Data mining & machine learning**: feature engineering, model evaluation, supervised & unsupervised learning
-- **NLP**: NLTK, spaCy, VADER, DeepL API integration
-- **Analytics & stats**: data analytics, visualization, statistical computing, econometrics
-- **Notebooks & experimentation**: Jupyter Notebooks and Google Colab.
+### 📊 Data Science & Analytics
+
+<p align="left">
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" /></code>
+</p>
+
+**Other DS / ML tools (text):**  
+Seaborn · plotext · Optuna · NLTK · spaCy · VADER · GeoPandas · Folium · Leaflet · classical ML methods, feature engineering, evaluation & experimentation
 
 ---
 
-### Machine Learning & Deep Learning
-- **Classic ML**: scikit-learn, LightGBM
-- **Deep learning**: PyTorch, TensorFlow / Keras
-- **Computer vision**: OpenCV, image preprocessing & augmentation, semantic segmentation (several models like U-Net with several encoders like EfficientNet)
-- **Training & tuning**: GPU-accelerated workflows, Optuna hyperparameter optimization
-- **Applied projects**: chest X-ray disease detection, coral health estimation from underwater imagery, London burglary per LSOA prediction for police resource allocation optimization.
+### 🧠 Machine Learning & Deep Learning
+
+<p align="left">
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /></code>
+</p>
+
+**Topics & frameworks:**  
+Computer vision (semantic segmentation, U-Net, EfficientNet encoders) · classical ML pipelines · hyperparameter optimization (Optuna) · interpretability & feature-based modeling
 
 ---
 
-### Data Engineering & MLOps
-- **Pipelines & orchestration**: Apache Airflow, Dask
-- **Streaming & messaging**: Apache Kafka, Redis
-- **Storage & querying**: SQL, SQLite, basic data modeling
-- **Version control**: Git, GitHub
-- **Containers & IaC**: Docker, Terraform
-- **Cloud**: AWS (EC2, S3, Lambda)
+### 🏗️ Data Engineering & DevOps
+
+<p align="left">
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" /></code>
+</p>
+
+**Other DE / MLOps:**  
+Dask · data pipelines · model deployment basics · experiment tracking & reproducible workflows
 
 ---
 
-### 📈 Visualization, BI & Dashboards
-- **Python viz**: matplotlib, seaborn, plotext
-- **Geospatial viz**: GeoPandas, Folium, Leaflet
-- **Dashboards & data apps**: Plotly Dash, Streamlit, Flask-based dashboards
-- **Business intelligence**: Power BI, Tableau
-- **Web visualization**: D3.js, Leaflet
+### 📈 BI, Dashboards & Data Apps
+
+<p align="left">
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" /></code>
+</p>
+
+**Other tools (text):**  
+Plotly Dash · Streamlit · custom Flask dashboards · interactive geospatial dashboards (GeoPandas, Folium, Leaflet)
 
 ---
 
-### Web, APIs & Frontend
-- **Backends & APIs**: Flask, RESTful API design
-- **Frontend**: React.js, HTML/CSS/JavaScript integration
-- **End-to-end products**: data → model → API → interactive dashboard
+### 🌐 Web, APIs & Frontend
+
+<p align="left">
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" /></code>
+</p>
+
+**Concepts:**  
+RESTful API design · backend-for-frontends for dashboards · integration of ML models into APIs & web apps
 
 ---
 
-### CS, Systems & Networking
-- **Core CS**: data structures & algorithms, logic & set theory, discrete mathematics
-- **Systems**: Linux / Bash, computer systems fundamentals, concurrency
-- **Networking**: networking basics, Wireshark (packet sniffing & traffic analysis)
+### 🖥️ CS, Systems & Networking
+
+<p align="left">
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" /></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" /></code>
+</p>
+
+**Topics:**  
+Data Structures & Algorithms · concurrency · computer systems · networking basics · packet sniffing & analysis (Wireshark)
 
 ---
 
-### Formal Methods & Reliability
-- **Specification & verification**: PlusCal, TLA+ (reasoning about safety & liveness of algorithms)
+### ✅ Formal Methods & Extras (text)
+
+- PlusCal & TLA+ (algorithm specification and verification)  
+- Simulation of autonomous systems / earthquake-survival search robots (simulation platform to be filled in)  
+- NLP pipelines: NLTK · spaCy · VADER · translation via DeepL API  
+
 
 ---
 
