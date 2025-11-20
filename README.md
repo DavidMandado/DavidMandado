@@ -16,7 +16,7 @@
 
 I’m a **Data Scientist** who loves **building and implementing innovative and highly technical data projects** in order to change the world.
 
-I love using data to read between the lines and find possibilities not detectable from simple analysis. As per my double degree education, I am also a Computer Scientist and Engineer, allowing me to give my data abilities, reach and technical skills to go beyond average and find new solutions.
+I love using data to read between the lines and find possibilities not detectable from simple analysis. As per my double degree education, I am also a Computer Scientist and Engineer, allowing my data skills, decision-making and problem-solving to go beyond average and find new approaches.
 
 ---
 
