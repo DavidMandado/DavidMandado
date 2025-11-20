@@ -101,7 +101,7 @@ Computer vision (semantic segmentation, U-Net, EfficientNet encoders) · classic
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" /></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" /></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" /></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" /></code>
 </p>
@@ -114,8 +114,8 @@ Dask · data pipelines · model deployment basics · experiment tracking & repro
 ### BI, Dashboards & Data Apps
 
 <p align="left">
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" /></code>
+  <code><img height="30" src="https://www.svgrepo.com/show/353930/power-bi.svg" alt="Power BI" /></code>
+  <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" /></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" /></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" /></code>
 </p>
@@ -145,7 +145,7 @@ RESTful API design · backend-for-frontends for dashboards · integration of ML 
 <p align="left">
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" /></code>
+  <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/wireshark.svg" /></code>
 </p>
 
 **Topics:**  
