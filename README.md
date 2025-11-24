@@ -197,9 +197,11 @@ This project was an investigation to aid **Reef Support**, a company focused on 
 
 
   **Links**
-  - Repo: https://github.com/DavidMandado/ML-Coral-health-estimation
-  - Report: https://github.com/DavidMandado/ML-Coral-health-estimation/Group_13___Capstone_DC_Report%20(1).pdf
-  - Legal/Social?Ethical essay: [link or mention in repo]
+  - Repo: [github.com/ML-Coral-health-estimation](https://github.com/DavidMandado/ML-Coral-health-estimation)
+  - Report: [github.com/ML-Coral-health-estimation/Capstone Report](https://github.com/DavidMandado/DavidMandado/blob/main/Group_13___Capstone_DC_Report%20(1).pdf)
+  - Legal/Social/Ethical Essay: [github.com/ML-Coral-health-estimation/Capstone Essay](https://github.com/DavidMandado/DavidMandado/blob/main/Capstone_Data_Challenge___Group_13_Essay%20(1).pdf)
+  - Poster: https://github.com/DavidMandado/DavidMandado/blob/main/JBG060%20Poster%20(2).pdf
+  - Reef Support: https://www.reef.support/
 
   Images of the data results:
 <p align="center">
