@@ -169,8 +169,6 @@ Data Structures & Algorithms · concurrency · computer systems · networking ba
 ### 1. [Coral health assesment with Machine Learning](https://github.com/DavidMandado/ML-Coral-health-assesment)
 This project was an investigation to aid **Reef Support**, a company focused on addressing coral health around the globe and find new or improved uses for machine learning to reduce labour-intensive tasks and increase bleaching detection accuracy.
 
-
-
 <details>
   <summary><b>🔍 Details</b></summary>
 
@@ -195,9 +193,22 @@ This project was an investigation to aid **Reef Support**, a company focused on 
   - 🧠 Lesson 2 (e.g. CI/CD, testing, performance)
 
   **Links**
-  - 🔗 Repo: https://github.com/YOUR_USERNAME/PROJECT_1_REPO
-  - 🌐 Live demo: https://PROJECT_1_LIVE_URL (if available)
-  - 📝 Docs / Screenshots: [link or mention in repo]
+  - Repo: https://github.com/YOUR_USERNAME/PROJECT_1_REPO
+  - Report: https://PROJECT_1_LIVE_URL (if available)
+  - Legal/Social?Ethical essay: [link or mention in repo]
+
+  Images of the data results:
+<p align="center">
+  <img src="correlationwhitefeatures.png"  width="45%">&nbsp;
+  <img src="extremeLaplacian.png" width="45%">
+  <img src="scattermatrixwhiteness" width="45%">
+</p>
+A demo of the full pipeline process:
+<p align="center">
+  <img src="data/readme_files/mcblsurvery1.png"     width="45%">&nbsp;
+  <img src="data/readme_files/mcblsurvey2.png"     width="45%">
+</p>
+
 </details>
 
 ---
