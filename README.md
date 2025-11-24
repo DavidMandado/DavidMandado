@@ -200,7 +200,9 @@ This project was an investigation to aid **Reef Support**, a company focused on 
   Images of the data results:
 <p align="center">
   <img src="correlationwhitefeatures.png"  width="45%">&nbsp;
-  <img src="extremesLaplacian.png" width="45%">
+  <br>
+  <img src="extremesLaplacian.png" width="45%">;
+  <br>
   <img src="scattermatrixwhiteness.jpg" width="45%">
 </p>
 A demo of the full pipeline process:
