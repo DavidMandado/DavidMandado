@@ -166,7 +166,7 @@ Data Structures & Algorithms · concurrency · computer systems · networking ba
 
 > These are the most interesting projects I have worked on that show the value I can provide and the insightful and creative thinking I am capable of, please feel free to go more into detail if you find any of them interesting.
 
-### 1. [PROJECT_1_NAME](https://github.com/YOUR_USERNAME/PROJECT_1_REPO)
+### 1. [Coral health assesment with Machine Learning](https://github.com/DavidMandado/ML-Coral-health-assesment)
 
 A short one-liner: **what this project does** and **why it exists**.
 
