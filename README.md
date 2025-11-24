@@ -167,8 +167,7 @@ Data Structures & Algorithms · concurrency · computer systems · networking ba
 > These are the most interesting projects I have worked on that show the value I can provide and the insightful and creative thinking I am capable of, please feel free to go more into detail if you find any of them interesting.
 
 ### 1. [Coral health assesment with Machine Learning](https://github.com/DavidMandado/ML-Coral-health-assesment)
-
-A short one-liner: **what this project does** and **why it exists**.
+This project was an investigation tu support **Reef Support**, a business focused on addressing coral health around the globe and find new or improved uses for machine learning to reduce labour-intensive tasks and increase bleaching detection accuracy
 
 <details>
   <summary><b>🔍 Details</b></summary>
