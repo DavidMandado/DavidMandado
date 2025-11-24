@@ -174,23 +174,27 @@ This project was an investigation to aid **Reef Support**, a company focused on 
 
   <br />
 
-  **What it is**  
-  A brief 2–3 sentence explanation of the project. Example:  
-  “A full-stack task management app that helps teams prioritize work with Kanban boards, real-time updates, and analytics.”
+### Project overview
 
-  **Tech stack**
-  - Frontend: React, TypeScript, Tailwind
-  - Backend: Node.js, Express, PostgreSQL
-  - Infra: Docker, GitHub Actions, Railway/Render/Heroku/etc.
+**What it is**  
+Capstone Data Challenge project (TU/e JBG060) in collaboration with Reef Support. The goal is to move beyond binary “bleached / not-bleached” classification and instead build a low-compute, explainable pipeline that segments coral in photo-quadrats and derives a graded health signal from interpretable image features. :contentReference[oaicite:0]{index=0}  
 
-  **Key features**
-  - ✅ Feature 1 – explain briefly
-  - ✅ Feature 2 – explain briefly
-  - ✅ Feature 3 – explain briefly
+We use a U-Net with an EfficientNet-B0 encoder to obtain coral / non-coral masks (mIoU ≈ 0.67 on held-out reef sites). Within these masks we compute texture and color/whiteness features (e.g. Laplacian variance, LBP, GLCM correlation, albedo, luminance, saturation, red channel) and aggregate them into (1) a linear health index and (2) percentile-matched exemplar images to support human review and decision-making around bleaching.   
 
-  **What I learned**
-  - 🧠 Lesson 1 (e.g. state management, API design)
-  - 🧠 Lesson 2 (e.g. CI/CD, testing, performance)
+**Tech stack**
+- Data & modeling: Python (Jupyter), U-Net + EfficientNet-B0 segmentation, linear regression for health index
+- Feature engineering: Classical CV & texture descriptors (Laplacian, LBP, GLCM, HSV/RGB features)
+- Experimentation: Site-stratified evaluation, Optuna for hyperparameter search, mask QC & preprocessing :contentReference[oaicite:2]{index=2}  
+
+**Key features**
+- ⚫ Coral vs. background segmentation with U-Net (EfficientNet-B0 backbone), achieving ~0.67 mIoU on held-out reef sites  
+- ⚫ Interpretable feature extractor (3 texture + 6 color/whiteness features) computed only inside coral masks to track paleness and micro-texture changes related to bleaching :contentReference[oaicite:3]{index=3}  
+- ⚫ Two complementary health outputs: a transparent regression-based health index (0–100) and percentile-matched exemplar retrieval to visually compare similar health states and aid explainability   
+
+**What I learned**
+- 🟢 How to design and evaluate an end-to-end segmentation + feature-engineering pipeline under domain shift (site-stratified splits, normalization, mask quality checks, and correlation-based feature pruning). :contentReference[oaicite:5]{index=5}  
+- 🟢 How to make ML models more responsible and trustworthy in an environmental context: handling dataset bias (standardization, robust statistics), keeping models explainable, and thinking about how responsibility is shared between developers, agencies, and local communities when AI informs high-impact decisions. :contentReference[oaicite:6]{index=6}  
+
 
   **Links**
   - Repo: https://github.com/YOUR_USERNAME/PROJECT_1_REPO
