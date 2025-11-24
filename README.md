@@ -205,9 +205,9 @@ This project was an investigation to aid **Reef Support**, a company focused on 
   <br>
   <img src="scattermatrixwhiteness.jpg" width="45%">
 </p>
-A demo of the full pipeline process:
+A demo result of the full pipeline process:
 <p align="center">
-  <img src="approachagood.jpg"     width="45%">&nbsp;
+  <img src="approachagood.jpg" width="45%">&nbsp;
 </p>
 
 </details>
