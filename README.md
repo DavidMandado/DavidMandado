@@ -44,7 +44,7 @@ I love using data to read between the lines and find possibilities not detectabl
 ---
 
 ## What I bring to the table...
-These are some of the tools I have worked most with for university in depth data challenges, personal projects and professional work.
+These are some of the tools I have worked most with for professional work, university in depth data challenges and personal projects..
 
 ## Tech Stack
 
@@ -167,7 +167,9 @@ Data Structures & Algorithms · concurrency · computer systems · networking ba
 > These are the most interesting projects I have worked on that show the value I can provide and the insightful and creative thinking I am capable of, please feel free to go more into detail if you find any of them interesting.
 
 ### 1. [Coral health assesment with Machine Learning](https://github.com/DavidMandado/ML-Coral-health-assesment)
-This project was an investigation tu support **Reef Support**, a business focused on addressing coral health around the globe and find new or improved uses for machine learning to reduce labour-intensive tasks and increase bleaching detection accuracy
+This project was an investigation to aid **Reef Support**, a company focused on addressing coral health around the globe and find new or improved uses for machine learning to reduce labour-intensive tasks and increase bleaching detection accuracy.
+
+
 
 <details>
   <summary><b>🔍 Details</b></summary>
