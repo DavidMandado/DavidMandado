@@ -192,8 +192,8 @@ This project was an investigation to aid **Reef Support**, a company focused on 
 >- Two complementary health outputs: a transparent regression-based health index (0–100) and percentile-matched exemplar retrieval to visually compare similar health states and aid explainability   
 
 **What I learned**
->- 🟢 How to design and evaluate an end-to-end segmentation + feature-engineering pipeline under domain shift (site-stratified splits, normalization, mask quality checks, and correlation-based feature pruning).
->- 🟢 How to make ML models more responsible and trustworthy in an environmental context: handling dataset bias (standardization, robust statistics), keeping models explainable, and thinking about how responsibility is shared between developers, agencies, and local communities when AI informs high-impact decisions. :contentReference[oaicite:6]{index=6}  
+- 🟢 How to design and evaluate an end-to-end segmentation + feature-engineering pipeline under domain shift (site-stratified splits, normalization, mask quality checks, and correlation-based feature pruning).
+- 🟢 How to make ML models more responsible and trustworthy in an environmental context: handling dataset bias (standardization, robust statistics), keeping models explainable, and thinking about how responsibility is shared between developers, agencies, and local communities when AI informs high-impact decisions. :contentReference[oaicite:6]{index=6}  
 
 
   **Links**
