@@ -207,8 +207,7 @@ This project was an investigation to aid **Reef Support**, a company focused on 
 </p>
 A demo of the full pipeline process:
 <p align="center">
-  <img src="data/readme_files/mcblsurvery1.png"     width="45%">&nbsp;
-  <img src="data/readme_files/mcblsurvey2.png"     width="45%">
+  <img src="approachagood.jpg"     width="45%">&nbsp;
 </p>
 
 </details>
