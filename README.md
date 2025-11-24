@@ -187,13 +187,13 @@ This project was an investigation to aid **Reef Support**, a company focused on 
 >- Experimentation: Site-stratified evaluation, Optuna for hyperparameter search, mask QC & preprocessing :contentReference[oaicite:2]{index=2}  
 
  **Key features**
-⚫ Coral vs. background segmentation with U-Net (EfficientNet-B0 backbone), achieving ~0.67 mIoU on held-out reef sites  
-⚫ Interpretable feature extractor (3 texture + 6 color/whiteness features) computed only inside coral masks to track paleness and micro-texture changes related to bleaching :contentReference[oaicite:3]{index=3}  
-⚫ Two complementary health outputs: a transparent regression-based health index (0–100) and percentile-matched exemplar retrieval to visually compare similar health states and aid explainability   
+>- Coral vs. background segmentation with U-Net (EfficientNet-B0 backbone), achieving ~0.67 mIoU on held-out reef sites  
+>- Interpretable feature extractor (3 texture + 6 color/whiteness features) computed only inside coral masks to track paleness and micro-texture changes related to bleaching :contentReference[oaicite:3]{index=3}  
+>- Two complementary health outputs: a transparent regression-based health index (0–100) and percentile-matched exemplar retrieval to visually compare similar health states and aid explainability   
 
-> **What I learned**
-- 🟢 How to design and evaluate an end-to-end segmentation + feature-engineering pipeline under domain shift (site-stratified splits, normalization, mask quality checks, and correlation-based feature pruning). :contentReference[oaicite:5]{index=5}  
-- 🟢 How to make ML models more responsible and trustworthy in an environmental context: handling dataset bias (standardization, robust statistics), keeping models explainable, and thinking about how responsibility is shared between developers, agencies, and local communities when AI informs high-impact decisions. :contentReference[oaicite:6]{index=6}  
+**What I learned**
+>- 🟢 How to design and evaluate an end-to-end segmentation + feature-engineering pipeline under domain shift (site-stratified splits, normalization, mask quality checks, and correlation-based feature pruning).
+>- 🟢 How to make ML models more responsible and trustworthy in an environmental context: handling dataset bias (standardization, robust statistics), keeping models explainable, and thinking about how responsibility is shared between developers, agencies, and local communities when AI informs high-impact decisions. :contentReference[oaicite:6]{index=6}  
 
 
   **Links**
