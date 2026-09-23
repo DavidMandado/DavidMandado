@@ -23,7 +23,7 @@ I love using data to read between the lines and find possibilities not detectabl
 ## About me
 - &nbsp; Currently studying a **Double Bachelor**: <br>
 &nbsp; &nbsp; &nbsp; **Data Science** - TU Eindhoven and Tilburg University <br>
-&nbsp; &nbsp; &nbsp; **Computer Science & Engineering** - TU University <br>
+&nbsp; &nbsp; &nbsp; **Computer Science & Engineering** - TU Eindhoven <br>
 
 <p align="center">
   <a href="https://www.tue.nl/en/">
